@@ -8,12 +8,7 @@ This repository explores the effects of the 2017 Thomas Fire in California by us
 File map
 ```
 ├── data
-│   ├── thomas_boundary # fire perimeter data
-│   │   ├── thomas_boundary.cpg
-│   │   ├── thomas_boundary.dbf
-│   │   ├── thomas_boundary.prj
-│   │   ├── thomas_boundary.shp
-│   │   └── thomas_boundary.shx
+│   ├── thomas_boundary.geojson # fire perimeter data
 │   └── landsat8-2018-01-26-sb-simplified.nc # landsat data
 ├── .DS_Store
 ├── .gitignore
