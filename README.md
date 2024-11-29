@@ -10,7 +10,6 @@ File map
 ├── data
 │   ├── thomas_boundary.geojson               # fire perimeter data
 │   └── landsat8-2018-01-26-sb-simplified.nc  # landsat data
-├── .DS_Store
 ├── .gitignore
 ├── README.md
 ├── hwk4-task2-false-color-oyler.ipynb        # Jupyter notebooks for analysis
