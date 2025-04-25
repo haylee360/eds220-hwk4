@@ -1,1 +1,4 @@
 no_push_data/*
+data/*
+images/*
+.ipynb_checkpoints*
